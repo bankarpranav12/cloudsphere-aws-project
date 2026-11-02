@@ -1,5 +1,5 @@
 
-const API_URL = "http://43.204.23.54:3000";
+const API_URL = "http://cloudsphere-alb-834884492.ap-south-1.elb.amazonaws.com";
 
 // Check backend health
 async function checkBackend() {
